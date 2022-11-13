@@ -1,4 +1,4 @@
-# flutter_application_bmc_calculator
+# flutter_application_bmi_calculator
 
 A new Flutter project.
 
